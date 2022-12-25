@@ -10,5 +10,12 @@
   <li> Socket.io </li>
   <br>
 
- Demo  =>  <a href = "https://arvindbatham.me" alt = "Link" >click here
- 
+# `Run on your local Enviornment`
+
+<ol>
+<li> Clone the Repo `git clone https://github.com/arvindbatham600/Chaty.git` </li>
+<br>
+<li> In the Project directory 
+run `npm install`</li>
+<br>
+<li> run `node server.js` </li></ol>
