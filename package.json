@@ -2,9 +2,9 @@
   "name": "chat-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon server"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
