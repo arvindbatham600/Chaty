@@ -12,10 +12,10 @@
 
 # `Run on your local Enviornment`
 
-<ol>
-<li> Clone the Repo `git clone https://github.com/arvindbatham600/Chaty.git` </li>
-<br>
-<li> In the Project directory 
-run `npm install`</li>
-<br>
-<li> run `node server.js` </li></ol>
+Clone the Repo using `git clone https://github.com/arvindbatham600/Chaty.git`.
+
+In the project directory, Install all the dependencies using `npm install`.
+
+Run `npm start` to run the script.
+
+Check `http://localhost:3000/`, Chat Application will be running on port 3000.
